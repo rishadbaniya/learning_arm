@@ -1,0 +1,1 @@
+## I kind of believe in arm as its RISC based, i feel it's the future of CPU architecture. I'm betting my time and energy on this thing with this repository as a single place to learn everything there is about ARM
