@@ -4,6 +4,7 @@
 Some links and references are : 
 
 Arm architecture family : https://en.wikipedia.org/wiki/ARM_architecture_family
+
 A curated list of all arm processors : https://en.wikipedia.org/wiki/List_of_ARM_processors
 
 
