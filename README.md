@@ -7,4 +7,6 @@ Arm architecture family : https://en.wikipedia.org/wiki/ARM_architecture_family
 
 A curated list of all arm processors : https://en.wikipedia.org/wiki/List_of_ARM_processors
 
+Introduction to arm assembly (Part 1) : https://azeria-labs.com/writing-arm-assembly-part-1/
+
 
