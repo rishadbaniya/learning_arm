@@ -9,4 +9,6 @@ A curated list of all arm processors : https://en.wikipedia.org/wiki/List_of_ARM
 
 Introduction to arm assembly (Part 1) : https://azeria-labs.com/writing-arm-assembly-part-1/
 
+https://forum.xda-developers.com/t/is-there-an-assembler-and-linker-included-in-android.4272371/
+
 
